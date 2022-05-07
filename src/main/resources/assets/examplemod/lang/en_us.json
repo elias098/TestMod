@@ -1,0 +1,6 @@
+{
+  "item.examplemod.amethyst": "Amethyst",
+  "block.examplemod.test_block": "Test Block",
+  "itemGroup.testModTab": "Test Mod",
+  "container.examplemod.test_block": ""
+}
